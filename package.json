@@ -1,5 +1,15 @@
 {
+  "name": "crawler-js-env",
+  "version": "1.0.0",
+  "private": true,
+  "description": "爬虫 JS 逆向补环境工作区（基于 HaHaVM）",
+  "scripts": {
+    "start": "node HaHaVM-main/main.js"
+  },
   "dependencies": {
     "vm2": "^3.9.19"
+  },
+  "engines": {
+    "node": ">=16"
   }
 }

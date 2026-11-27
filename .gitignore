@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+package-lock.json
+
+# 运行产物
+HaHaVM-main/output.js
+HaHaVM-main/user/*/log.txt
+HaHaVM-main/.vscode/
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
